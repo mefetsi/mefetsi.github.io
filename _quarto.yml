@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - hobbies.qmd
+      - contact.qmd
 format:
   html:
     theme: litera

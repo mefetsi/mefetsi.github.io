@@ -19,3 +19,10 @@ I learned chess at a young age and enjoy it. During my Polytechnic studies, my t
 
 ## *Gaming*
 My current favourite game is [Valorant](https://playvalorant.com/){target="_empty"} a 5v5 FPS game. I am in the top ranked 0.8% of players. 
+
+Trailer of the game:
+{{< video https://youtu.be/EiVF6QsAijo?si=FvFQXB2Rxg4LdCW2
+    title="Valorant Trailer"
+    start="0"
+    aspect-ratio="21x9" 
+>}}

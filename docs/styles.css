@@ -1,1 +1,16 @@
 /* css styles */
+
+body{
+  background-color: #F8F8FF;
+  font-family: Times New Roman;
+}
+
+
+.navbar{
+  background-color:#E0FFFF;
+  font-family: Times New Roman;
+}
+
+.column{
+  padding:5px;
+}

@@ -1,15 +1,15 @@
 
 ::: {.columns}
 
-::: {.column width="15%"}
+::: {.column width="18%"}
 ![Profile picture](imgs/pfp.jpg)
 :::
 ::: {.column width="40%"}
 Javier Si                             
-- Undergraduate student               
-- Singapore Institute of Technology   
-- Applied Artificial Intelligence     
-- Email: javierxuee@gmail.com 
+\- Undergraduate student               
+\- Singapore Institute of Technology   
+\- Applied Artificial Intelligence     
+\- Email: javierxuee@gmail.com 
 :::
 
 :::
@@ -23,5 +23,7 @@ Javier Si
 
 
 # Short desc
-I like [tech](/about.html#technical)... but also have [creative](/about.html#creative) projects/hobbies...
+My interests is a blend of [Technical](/about.html#technical) and [Creative](/about.html#creative) hobbies. I also like [Chess](/hobbies.html#chess) and [Gaming](/hobbies.html#gaming).
+
+
 

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "javier_si_website",
+    "title": "Experience",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Profile picture\n\n\n::: {.column width=“40%”, padding = :5px} Javier Si\n- Undergraduate student\n- Singapore Institute of Technology\n- Applied Artificial Intelligence\n- Email: javierxuee@gmail.com\n:::"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#interests-and-hobbies",
+    "href": "index.html#interests-and-hobbies",
+    "title": "Experience",
+    "section": "Interests and hobbies",
+    "text": "Interests and hobbies\nI like tech… but also have creative projects/hobbies…"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Experience",
+    "section": "Education",
+    "text": "Education\n\n2026, BSc. in Applied Artificial Intelligence, Singapore Institute of Technology\n2022, Diploma in Aerospace Electronics, Temasek Polytechnic"
   }
 ]

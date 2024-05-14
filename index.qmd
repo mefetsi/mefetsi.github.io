@@ -1,7 +1,34 @@
----
-title: "Javier Si Website"
-author: Javier Si
----
 
 
-## Welcome
+
+
+::: {.columns}
+
+::: {.column width="15%"}
+![Profile picture](imgs/pfp.jpg)
+:::
+::: {.column width="40%"}
+Javier Si                             
+- Undergraduate student               
+- Singapore Institute of Technology   
+- Applied Artificial Intelligence     
+- Email: javierxuee@gmail.com 
+:::
+
+
+
+
+
+:::
+
+## Education
+- 2026, BSc. in Applied Artificial Intelligence, Singapore Institute of Technology
+- 2022, Diploma in Aerospace Electronics, Temasek Polytechnic
+
+# Experience
+- Oct 2021 - Feb 2022, CTC Global, Desktop Engineer Intern
+
+
+## Interests and hobbies
+I like tech... but also have creative projects/hobbies...
+

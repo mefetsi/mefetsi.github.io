@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Experience",
     "section": "",
-    "text": "Profile picture\n\n\n::: {.column width=“40%”, padding = :5px} Javier Si\n- Undergraduate student\n- Singapore Institute of Technology\n- Applied Artificial Intelligence\n- Email: javierxuee@gmail.com\n:::"
+    "text": "Profile picture\n\n\n\nJavier Si\n- Undergraduate student\n- Singapore Institute of Technology\n- Applied Artificial Intelligence\n- Email: javierxuee@gmail.com"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project name\nTechnologies\nLink\n\n\n\n\nGame Engine\nJava, LibGDX, OOP\nGitHub\n\n\n\n\n\n\n\nEcommerce\nPHP, SQL, LAMP Stack\nGitHub\n\n\n\n\n\n\n\nHeart Disease Detector\nPytorch, Python\nColab"
   },
   {
     "objectID": "index.html#interests-and-hobbies",
@@ -26,5 +26,19 @@
     "title": "Experience",
     "section": "Education",
     "text": "Education\n\n2026, BSc. in Applied Artificial Intelligence, Singapore Institute of Technology\n2022, Diploma in Aerospace Electronics, Temasek Polytechnic"
+  },
+  {
+    "objectID": "about.html#technical",
+    "href": "about.html#technical",
+    "title": "Projects",
+    "section": "",
+    "text": "Project name\nTechnologies\nLink\n\n\n\n\nGame Engine\nJava, LibGDX, OOP\nGitHub\n\n\n\n\n\n\n\nEcommerce\nPHP, SQL, LAMP Stack\nGitHub\n\n\n\n\n\n\n\nHeart Disease Detector\nPytorch, Python\nColab"
+  },
+  {
+    "objectID": "about.html#creative",
+    "href": "about.html#creative",
+    "title": "Projects",
+    "section": "Creative",
+    "text": "Creative\n\n\n\nProject name\nViews\nSaved / Likes\nLink\n\n\n\n\nInstagram Filter\n210.2M\n4.3M\nInstagram\n\n\nTiktok Gaming Account\n4M\n534.2K\nTiktok"
   }
 ]

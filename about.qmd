@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+## Technical
+|  Project name  |Technologies | Link |
+|---------|----------|-------|
+|Game Engine|  Java, LibGDX, OOP     |  [GitHub](https://github.com/dragonstonehafiz/INF1009_Repo.git){target="_blank"}
+|  
+|Ecommerce| PHP, SQL, LAMP Stack     |  [GitHub](https://github.com/k-x-18/WEBSYS-p7-6){target="_blank"}
+|   
+|Heart Disease Detector|   Pytorch, Python    |  [Colab](https://colab.research.google.com/drive/11g6caNroVRSaWB40R_vpbajBWCb8LcJ7?usp=sharing){target="_blank"}
+|  
+  
+
+
+## Creative
+| Project name | Views | Saved / Likes | Link |
+|---------------|-------|------|------|
+|Instagram Filter|210.2M|4.3M|[Instagram](https://www.instagram.com/ar/656739884945570/){target="_blank"}|
+|Tiktok Gaming Account|4M|534.2K|[Tiktok](https://www.tiktok.com/@mefet?_t=8mKuYdGIaMT&_r=1){target="_blank"}|

@@ -1,7 +1,4 @@
 
-
-
-
 ::: {.columns}
 
 ::: {.column width="15%"}
@@ -30,5 +27,5 @@ Javier Si
 
 
 ## Interests and hobbies
-I like tech... but also have creative projects/hobbies...
+I like [tech](/about.html#technical)... but also have [creative](/about.html#creative) projects/hobbies...
 

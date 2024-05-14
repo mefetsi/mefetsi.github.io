@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - hobbies.qmd
 format:
   html:
     theme: litera

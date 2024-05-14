@@ -18,7 +18,7 @@ Javier Si
 
 :::
 
-## Education
+# Education
 - 2026, BSc. in Applied Artificial Intelligence, Singapore Institute of Technology
 - 2022, Diploma in Aerospace Electronics, Temasek Polytechnic
 
@@ -26,6 +26,6 @@ Javier Si
 - Oct 2021 - Feb 2022, CTC Global, Desktop Engineer Intern
 
 
-## Interests and hobbies
+# Short desc
 I like [tech](/about.html#technical)... but also have [creative](/about.html#creative) projects/hobbies...
 

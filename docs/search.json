@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Experience",
+    "title": "Education",
     "section": "",
-    "text": "Profile picture\n\n\n\nJavier Si\n- Undergraduate student\n- Singapore Institute of Technology\n- Applied Artificial Intelligence\n- Email: javierxuee@gmail.com"
+    "text": "Profile picture\n\n\n\nJavier Si\n- Undergraduate student\n- Singapore Institute of Technology\n- Applied Artificial Intelligence\n- Email: javierxuee@gmail.com\n\n\n\nEducation\n\n2026, BSc. in Applied Artificial Intelligence, Singapore Institute of Technology\n2022, Diploma in Aerospace Electronics, Temasek Polytechnic\n\n\n\nExperience\n\nOct 2021 - Feb 2022, CTC Global, Desktop Engineer Intern\n\n\n\nShort desc\nI like tech… but also have creative projects/hobbies…"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,19 @@
     "title": "Projects",
     "section": "Creative",
     "text": "Creative\n\n\n\nProject name\nViews\nSaved / Likes\nLink\n\n\n\n\nInstagram Filter\n210.2M\n4.3M\nInstagram\n\n\nTiktok Gaming Account\n4M\n534.2K\nTiktok"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I learned chess at a young age and enjoy it. During my Polytechnic studies, my team and I enrolled into NUS Invitational Chess Competition and won 2nd place.\n\n\n\n\n\nMate in 2\nWhite to move\n\n\n\n\n\nChess"
+  },
+  {
+    "objectID": "hobbies.html#chess",
+    "href": "hobbies.html#chess",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I learned chess at a young age and enjoy it. During my Polytechnic studies, my team and I enrolled into NUS Invitational Chess Competition and won 2nd place.\n\n\n\n\n\nMate in 2\nWhite to move\n\n\n\n\n\nChess"
   }
 ]

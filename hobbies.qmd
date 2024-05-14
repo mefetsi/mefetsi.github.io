@@ -1,0 +1,21 @@
+---
+title: "Hobbies"
+---
+
+## *Chess*
+I learned chess at a young age and enjoy it. During my Polytechnic studies, my team and I enrolled into NUS Invitational Chess Competition and won 2nd place.
+
+### Try to solve this chess puzzle. 
+::: {.columns}
+::: {.column width="40%"}
+- Mate in 2
+- White to move
+:::
+
+::: {.column width="40%"}
+![Chess](imgs/chess.jpg)
+:::
+:::
+
+## *Gaming*
+My current favourite game is [Valorant](https://playvalorant.com/){target="_empty"} a 5v5 FPS game. I am in the top ranked 0.8% of players. 
